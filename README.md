@@ -89,16 +89,17 @@ download dan upload data pada TournamentMango.
 
 <h2>Pembahasan :</h2>
 <h3>Kelebihan dan kekurangan TournamentMango :</h3>
-♦ Kelebihan :
+♦ Kelebihan :<br>
    1. Aplikasi ini tetap bisa digunakan meskipun koneksi internet
-      tidak tersambung.
+      tidak tersambung.<br>
   2. Aplikasi ini tidak memerlukan biaya untuk bisa
-      menggunakannya.
-♦ Kekurangan :
+      menggunakannya.<br>
+      <br>
+♦ Kekurangan :<br>
   1. Aplikasi ini tidak terlalu bagus tampilannya jika dibuka di
-    MobilePhone
+    MobilePhone<br>
   2. Dalam jumlah data yang terlalu banyak, aplikasi ini belum bisa
-    digunakan.
+    digunakan.<br>
 
 <h2>Referensi :</h2>
 Dalam mengerjakan laporan ini, tidak ditemukan bacaan yang membahas tentang aplikasi ini.
